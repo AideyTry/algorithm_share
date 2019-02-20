@@ -1,0 +1,1 @@
+#indentity_card.js  身份证验证算法
